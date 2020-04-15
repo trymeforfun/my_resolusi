@@ -1,0 +1,3 @@
+- Menyelesaikan Laravel 
+- Lanjut Pembelajaran ke ES6 & React
+- Membuat Web untuk ujian online
